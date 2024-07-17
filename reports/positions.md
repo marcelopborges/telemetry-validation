@@ -32,3 +32,6 @@ Foi selecionado um dia aleatóriamente ('2024-04-08') para comparar os resultado
 >Memória total usada pelo DataFrame: 1.90 MB
 
 **Resultado**
+>Obtenção de 70% na redução do tamanho do arquivo.
+
+Notebook de estudo se encontra em reports/positions.ipynb
