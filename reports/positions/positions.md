@@ -35,3 +35,23 @@ Foi selecionado um dia aleatóriamente ('2024-04-08') para comparar os resultado
 >Obtenção de 70% na redução do tamanho do arquivo.
 
 Notebook de estudo se encontra em reports/positions.ipynb
+
+#### Estimativa de crescimento da base de dados
+**Média de registro**
+* Média de registro por veículo (AssetID) base original 2380 registros/dia
+* Média de registro por veículo (AssetID) base sugestão 1218 registros/dia
+
+**Frota ficticia**
+
+*Supondo que tenhamos 300 veículos*
+
+* Nos dados originais: 2380 registros/carros × 300carros=714.000 registros/dia
+* Nos dados tratados: 1218 registros/carros × 300carros=365.472 registros/dia
+
+*Calcular o número total de registros para 300 carros em um mês (30 dias):*
+* Nos dados originais: 714000 registros/dia × 30dias = 2.142.0000 registros/m 
+* Nos dados tratados: 365472 registros/dia × 30dias = 1.096.4160 registros/m 
+
+**Armazenamento**
+Dados originais: Por mês: 21420000 registros, ocupando aproximadamente 194.64 MB.
+Dados tratados: Por mês: 10964160 registros, ocupando aproximadamente 57.04 MB.
