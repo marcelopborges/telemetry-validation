@@ -45,13 +45,13 @@ Notebook de estudo se encontra em reports/positions.ipynb
 
 *Supondo que tenhamos 300 veículos*
 
-* Nos dados originais: 2380 registros/carros × 300carros=714.000 registros/dia
-* Nos dados tratados: 1218 registros/carros × 300carros=365.472 registros/dia
+* Nos dados originais: 2.380 registros/carros × 300 carros = 714.000 registros/dia
+* Nos dados tratados: 1.218 registros/carros × 300 carros = 365.472 registros/dia
 
 *Calcular o número total de registros para 300 carros em um mês (30 dias):*
-* Nos dados originais: 714000 registros/dia × 30dias = 2.142.0000 registros/m 
-* Nos dados tratados: 365472 registros/dia × 30dias = 1.096.4160 registros/m 
+* Nos dados originais: 714.000 registros/dia × 30 dias = 2.142.0000 registros/m 
+* Nos dados tratados: 365.472 registros/dia × 30 dias = 1.096.4160 registros/m 
 
 **Armazenamento**
-Dados originais: Por mês: 21420000 registros, ocupando aproximadamente 194.64 MB.
-Dados tratados: Por mês: 10964160 registros, ocupando aproximadamente 57.04 MB.
+* Dados originais: Por mês: 2.142.0000 registros, ocupando aproximadamente 194.64 MB.
+* Dados tratados: Por mês: 1.096.4160 registros, ocupando aproximadamente 57.04 MB.
