@@ -67,4 +67,4 @@ Percentual de Nulos
 5. EndPosition_SpeedLimit	61.23%
 6. StartPosition_SpeedLimit	51.57%
 
-Nossa sugestão até o presente momento é a retirada das colunas ['EndPosition_AltitudeMetres e StartPositions_AltitudeMetres'] estas colunas estão presente na "lista" nas colunas Endposition e StartPositions
+> Nossa sugestão até o presente momento é a retirada das colunas ['EndPosition_AltitudeMetres e StartPositions_AltitudeMetres'] estas colunas estão presente na "lista" nas colunas Endposition e StartPositions e possuem ambos mais de 90% de dados nulos.
