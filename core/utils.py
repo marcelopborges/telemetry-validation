@@ -33,3 +33,4 @@ def expand_column(df, column):
 
     dict_df = df[column].dropna().apply(try_eval).apply(pd.Series)
     return dict_df
+

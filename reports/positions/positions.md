@@ -1,6 +1,6 @@
 ### Resumo da analise do dataset Positions
 
-#### A analise abaixo corresponde a dados extraídos dos dias 02/02/2024 a 8/06/2024.
+#### A analise abaixo corresponde a dados extraídos dos 08/04/2024.
 
 * Latitude e Longitude: A precisão utilizada nos dados de geolocalização são de 15 casas decimais, o que é um exagero para a finalidade que estamos utilizando que é monitoramento de veículo. Segundo pesquisas (vide fonte), 8 casas é o recomendável para níveis considerados de precisão como agricultura de precisão ou estudo cientificos. 5 casas decimais (precisão de ~1,11 m) e 6 casas decimais (precisão de 11 cm) são mais do que suficiente para nossa finalidade. Ao final demontrarei uma tendencia de ocupação de espaço em disco, juntamente com outras medidas que serã sugeridas.
 links: 
