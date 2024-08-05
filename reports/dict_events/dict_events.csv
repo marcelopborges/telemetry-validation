@@ -1,0 +1,216 @@
+;EventTypeId;EventType;Description;ValueName;FormatType;DisplayUnits
+0;-9107232402036844231;System;* Input 2 Low;;;
+1;-8466048650882854518;System;* Input 2 High;;;
+2;-8462656232830278080;Hidden;Active Trail point;;;
+3;-8090199106001736009;Default;* Low Remote Control Battery;;;
+4;-7417774485302453264;System;Fora da Faixa Verde - obsoleto;;;
+5;-7372181092478897411;System;Rotação Excessiva;Rotação;Value;RPM
+6;-6717396111168447572;Default;OBC unit odometer changed;;;
+7;-6577918909540725685;Hidden;SMS: Near daily limit;;;
+8;-6266869554747599730;Hidden;Active track point;;;
+9;-5885026884290222700;Hidden;End of trip call back request;;;
+10;-5701437455733308247;System;FM High resolution vehicle odometer;FM High resolution odometer;DistanceKilometers;km
+11;-5202712496663974930;Hidden;High priority active track point;;;
+12;-5187123885301764144;Default;* Panic Alert;;;
+13;-4950190839529718443;Default;* Ignição Off;;;
+14;-4479498118140367800;Hidden;Final active track point;;;
+15;-4165427743275052977;System;* Impacto Moderado;Moderate impact sensitivity;Integer;
+16;-3890646499157906515;System;(HP) Excesso de Velocidade;Velocidade;Speed;km/h
+17;-3792298274765039854;Hidden;Active ignition state change;Tensão da Ignição;Value;mV
+18;-3393530750645328945;System;(HP) Marcha Lenta;;;
+19;-2864371101042705250;Default;Road Speed Overspeeding;Velocidade;Speed;km/h
+20;-2428296493372883300;System;* Impacto Severo;Severe impact sensitivity;Integer;
+21;-1949793629218907327;System;FM Brake pedal depressed;;;
+22;-1935587791656193246;Default;* Assistance Request;;;
+23;-1912032722388075087;Default;* Bateria Interna Baixa;Tensão da Bateria;Value;mV
+24;-1108723664337353906;Default;* Bateria Baixa;Tensão da Bateria;Value;mV
+25;-593681484296749964;Hidden;SMS: Daily limit reached;;;
+26;-503899021474982347;Hidden;COMMS: Terminal Event Download Request;;;
+27;-382584128531125486;System;* Input 1 Low;;;
+28;2715425441390540159;Default;OBC unit date changed;;;
+29;2841595138250378900;Default;* Alimentação Desconectada;;;
+30;2978313165985390321;Default;OBC unit Engine Hours changed;;;
+31;4015353629289897570;System;FM Fuel level percentage;FM Fuel level;Value;%
+32;4291175374538259638;System;* Curva Brusca;Track trace cornering threshold;Integer;mg
+33;4650840888823746694;System;(HP) Marcha Lenta Excessiva em Cercas;;;
+34;4750800303282680186;System;Harsh braking;Desaceleração;Acceleration;km/h/s
+35;5857752512862302519;System;* Input 1 High;;;
+36;6454149451280645233;System;(HP) Aceleração Brusca;Aceleração;Acceleration;km/h/s
+37;6455806276341189645;Default;OBC unit reset;;;
+38;6922609100885212728;System;Diagnostic: GPS velocity as speed fallback;;;
+39;7042125390146036684;Default;* Alimentação Reconectada;;;
+40;8242796377286834188;Default;* Ignição On;;;
+41;8811449913201493072;Hidden;COMMS: EOT Download;;;
+42;7749185914194201772;Hidden;COMMS: BOT Download;;;
+43;-8136342741862439235;Default;Over speeding in location - EXCESSIVE SPEED;No Local;Location;
+44;-4596269900191457380;Default;Over speeding - TIERED;Velocidade;Speed;km/h
+45;1062305132618114225;Default;Over speeding in location - EXCESSIVE DURATION;No Local;Location;
+46;4360614301289230131;Default;Over speeding in location;Velocidade;Speed;km/h
+47;-2296465401251079776;Default;In-cab road speed over speeding - EXCESSIVE DURATION;Speed monitoring - Over speeding value;Speed;km/h
+48;-1009815199714528629;Default;In-cab road speed over speeding;Velocidade;Speed;km/h
+49;4817078994107181378;Default;In-cab road speed over speeding - EXCESSIVE SPEED;Speed monitoring - Over speeding value;Speed;km/h
+50;-5657734287350940835;HosViolation;703:Weekly Driving;;;
+51;-3082867732244905664;Default;Sub-trip start;;;
+52;6439752883345253459;Default;Sub-trip end;;;
+53;7381579521304264993;HosViolation;801:Continuous Driving;;;
+54;-9172323129900124816;HosViolation;802:Daily Rest;;;
+55;-8065777869118148601;HosViolation;805:Weekly Rest;;;
+56;-7264907666821676844;HosViolation;701:Weekly Rest;;;
+57;-7187426481580122107;HosViolation;206:Daily Off Duty Not For Shift Reset;;;
+58;-6493888540163318841;HosViolation;704:Two Weekly Driving;;;
+59;-5500972847847627848;HosViolation;213:Daily Driving Without Break;;;
+60;-4323406878300661891;HosViolation;205:Daily Off Duty;;;
+61;-3713459320596572035;HosViolation;204:Daily Off Duty Deferral;;;
+62;-3018210039805496856;HosViolation;702:Two Weekly Rest;;;
+63;-2447872976812872480;HosViolation;508:Shift Break;;;
+64;-1355416219707714846;HosViolation;514:Shift Total;;;
+65;474146278155760230;HosViolation;214:Daily Driving;;;
+66;626334446554218316;HosViolation;207:Daily On Duty Maximum;;;
+67;788934116659239970;HosViolation;507:Shift Driving;;;
+68;1046475570982599663;HosViolation;215:Daily Rest;;;
+69;4462786787242785826;HosViolation;111:Cycle On Duty Without Required Off Duty;;;
+70;4471291987945988425;HosViolation;706:Reduced Rest Compensation;;;
+71;4860548664254319917;HosViolation;112:Cycle Off Duty Periods;;;
+72;5016057723140880891;HosViolation;806:Daily Driving;;;
+73;6781060876286061560;HosViolation;509:Shift On Duty;;;
+74;8513466422555379336;HosViolation;109:Cycle On Duty;;;
+75;6593298508393752040;HosViolation;203:Daily Driving;;;
+76;-9176671270936746107;HosViolation;823:Rest block short (5:30h, BFM 6:15h);;;
+77;216284886120432354;HosViolation;822:Rest block medium (8:00h, BFM 9:00h);;;
+78;1268987714023675166;HosViolation;815:Required Rest In 14 days;;;
+79;3255191394606345900;HosViolation;812:Required Rest In 7 days;;;
+80;5448669289706557268;HosViolation;809:Required Rest In 24 Hours;;;
+81;6431581090744603609;HosViolation;824:Driving in 14 day period;;;
+82;6516311050243386436;HosViolation;821:Rest block long (11:00h, BFM 12:00h);;;
+83;7337193410206946216;Default;Passenger IDed;;;
+84;7417918196186286721;HosViolation;808:Driving in 24H period;;;
+85;7576360609625154071;HosViolation;811:Driving in 7 day period;;;
+86;8310203122876257133;HosViolation;825: Required Rest In 52 Hours;;;
+87;8762220870379150868;Default;Configuration accepted;Version of configuration that was accepted;Integer;
+88;-2730877443971433118;Default;Diagnostic: Satellite communication message limit set;;;
+89;1154155671739782144;HosViolation;830:Required Rest In 28 days;;;
+90;1566525044567808847;Default;Calculate soft clock value when before the time change date;;;
+91;2590837228958580073;Default;Calculate soft clock current date time using calculated time;;;
+92;3178206198625947592;Default;Calculate soft clock value when after the time change date;;;
+93;3954175762578748126;Default;Store new values for time deviation calculation;;;
+94;6365240090597652472;HosViolation;829:Driving in 28 day period;;;
+95;7114384516709768172;HosViolation;834:Required Rest In 82 Hours;;;
+96;8515032094046493680;Hidden;Unmatched Extended Driver ID;;;
+97;1825907491738184089;HosViolation;837:Weekly Driving;;;
+98;6908615140553864348;HosViolation;838:Monthly Driving;;;
+99;-7743386764194853504;Default;3-Axis - Lift Off;3-Axis Liftoff Severity;Value;
+100;-4398378188999478703;Default;3-Axis – Harsh Cornering;3-Axis Cornering G-Force (High Sensitivity);Value;G
+101;-3266057215132991570;Default;3-Axis - Rollover;3-Axis X-Axis Rotation;Value;
+102;3410000371978983850;Default;3-Axis - Rough Road;3-Axis Road Roughness Severity;Value;
+103;5778168543245285440;Default;3-Axis - Possible Accident;3-Axis Impact Severity;Value;
+104;-4313373244482545430;Default;DriveMate Mode Change;;;
+105;-5856432860580602666;HosViolation;840:Required Rest Before;;;
+106;3762264000645059186;Hidden;Configuration confirmed;Version of configuration that was accepted;Integer;
+107;7982182222986239649;Custom;(HP) Banguela;Velocidade;Speed;km/h
+108;8912377795794369708;Custom;HC - Falha velocidade Sensor/CAN;GPS velocity;Speed;km/h
+109;-1781390428471250016;Custom;HC - GPS velocity as speed fallback;;;
+110;-1068807496570848844;Custom;HC - Sem GPS;;;
+111;9158742440464658924;Custom;HC - Sem RPM;;;
+112;-225322217624061558;Default;* OBC unit reset;;;
+113;3067265545407279544;HosViolation;856:Split Break Reset;;;
+114;3203334990470836499;HosViolation;852:Maximum Consecutive Driving Days;;;
+115;3269849178444244131;HosViolation;855:Weekly Rolling On Duty Reset;;;
+116;5093883055575592834;HosViolation;854:Maximum Weekly Driving;;;
+117;5191813006292187858;HosViolation;853:Weekly Rolling Reset;;;
+118;5237475855404103650;HosViolation;835:Night Driving;;;
+119;7018716150654874550;HosViolation;857:Maximum Two Week Driving;;;
+120;2190406540841410081;HosViolation;861:Required Off Duty In Calendar Month ;;;
+121;5274492333575493152;Custom;HC - Aceleração Brusca;Aceleração;Acceleration;km/h/s
+122;-6147266358306541600;Custom;TT:MB-MiX - TICK Pressão do Sistema de Freios C 2;FMS Service Brake Air Pressure Circuit 2;Value;kPa
+123;-1379984654454808363;Custom;HC - RPM;Engine RPM;Value;RPM
+124;3651464826771402743;Custom;HC - Velocidade GPS Máxima;GPS velocity;Speed;km/h
+125;-5384536043410519844;Custom;Sem GPRS - Garagem;GSM signal quality;Value;
+126;4825318985014246224;Custom;Sem GPRS - Operação;GSM signal quality;Value;
+127;-6724339864990572804;Custom;Odometro Alta Resolução;FM High resolution odometer;DistanceKilometers;km
+128;548623617942164810;Custom;(HP) Excesso de Rotação;Rotação;Value;RPM
+129;569712952018602615;Custom;HC - Excesso de Velocidade;Velocidade;Speed;km/h
+130;-3609392196539581128;Custom;(HP) Curva Brusca;3-Axis Cornering G-Force (Medium Sensitivity);Value;G
+131;4532187928100910523;Custom;(HP) Freada Brusca;Velocidade;Speed;km/h
+132;3827677251289459370;Custom;MiX - Hodômetro de alta resolução;FMS High resolution odometer;Value;km
+133;7651958308154428287;Custom;(HP) Inércia;;;
+134;-8588945320609074370;Default;Firmware info;;;
+135;-8156819268807087992;Default;Settings version changed;;;
+136;-2998837133460910260;Default;Firmware version changed;;;
+137;-2971750131261417491;Default;Configuration version changed;;;
+138;-195021832516758230;Default;Firmware error;;;
+139;-4006354661462717098;Custom;(HP) Uso excessivo da embreagem parado;;;
+140;-8887950390163793858;Custom;FMS - Porcentagem do pedal de freio - GL;FMS Brake Pedal Position;Value;%
+141;3017243793800557686;Custom;FMS - Top Brake - GL;FMS Top Brake;Value;
+142;8387722637256022940;Custom;FMS - Clutch pedal position - GL;FMS Clutch pedal position;Value;%
+143;8508261317636318228;Custom;FMS - Accelerator pedal position - GL;FMS Accelerator Pedal Position;Value;%
+144;-3258128909964553503;Custom;FMS - Freio de serviço sem freio motor - GL;FMS Top Brake;Value;
+145;7038227315454193211;Custom;(HP) Uso excessivo da embreagem em movimento;Velocidade;Speed;km/h
+146;5742604598548247598;Diagnostic;CAN loss detected;;;
+147;-7297492232153881177;Default;Driver Assist - Bluetooth Remote;;;
+148;-4298158154586517219;Diagnostic;Low Battery - Bluetooth Remote;;;
+149;-7150983691850886396;Custom;(HP) Acelerando Parado;Rotação;Value;RPM
+150;8678978490952518882;Custom;(HP) Baixa tensão de bateria (18 V);Tensão da Bateria;Value;mV
+151;2937187362208966035;Diagnostic;CAN speed/RPM loss detected;;;
+152;-4340433886541590978;Custom;(HP) Temp. liq. arrefecimento (Média);FMS Engine Coolant Temperature;Value;°C
+153;-8078463675889364911;Custom;(HP) Temp. liq. arrefecimento (Máxima);FMS Engine Coolant Temperature;Value;°C
+154;-6087879220239231094;Hidden;Charging status whilst out of trip;;;
+155;1896701076315097944;Hidden;Periodic SOC;EV CAN: State of charge thousands;Value;%
+156;4748629011999503251;HosViolation;862:Weekly Rest;;;
+157;-986797213280595187;Custom;FMS High resolution odometer;FMS High resolution odometer;Value;km
+158;-5503870273528803438;Custom;(HP) Ignição Ligada;Tensão da Bateria;Value;mV
+159;6005371287290190191;Custom;(HP) Ignição Desligada;Tensão da Bateria;Value;mV
+160;-2977226927105487812;Custom;(HP) Ignição Ligada motor desligado;;;
+161;4745460876959782086;Custom;(HP) Temperatura do óleo (Máxima) VW;FMS DM Engine Oil Temperature;Value;C
+162;-5129485112838336600;Custom;(HP) Temperatura do óleo (Média) VW;FMS DM Engine Oil Temperature;Value;C
+163;654157134844138586;Custom;(HP) Uso indevido pedal acelerador 85%;FMS AcceleratorPedalPosition;Value;%
+164;3763233301535010925;Custom;EV State of charge thousands;EV CAN: State of charge thousands;Value;%
+165;-4331278288623837610;Custom;EV State of health;EV CAN: State of health;Value;%
+166;3078156376447371064;Custom;EV Vehicle range remaning;EV CAN: Vehicle range remaining;Value;km
+167;-4268403106295969306;Custom;EV Trip net energy usage;EV CAN: Trip net energy usage;Value;kWh
+168;2929930587183384322;Custom;EV fms interior temperature;FMS Interior Temperature;Value;°C
+169;5569520636474413753;Custom;EV Battery current charge power;EV CAN: Battery current charge power;Value;kW
+170;5134552897153355326;Custom;EV accelerator pedal position;FMS AcceleratorPedalPosition;Value;%
+171;-1319993422151500698;Custom;FMS High resolution;FMS High resolution odometer;Value;km
+172;4545150352389612191;Custom;ELETRA - EV CAN: State of charge - tick;EV CAN: State of charge thousands;Value;%
+173;-1413744597227716420;Custom;ELETRA - FMS Interior Temperature - tick;FMS Interior Temperature;Value;°C
+174;5024154316445096395;Custom;ELETRA - FMS High resolution odometer - tick;FMS High resolution odometer;Value;km
+175;-8393322077111846684;Custom;ELETRA - FMS Ambient Air Temperature - tick;FMS Ambient Air Temperature;Value;°C
+176;-11822095803231631;Custom;ELETRA - FMS AcceleratorPedalPosition - tick;FMS AcceleratorPedalPosition;Value;%
+177;-7136507782548859562;Custom;ELETRA - EV CAN: Charging Status - tick;EV CAN: Charging status;Value;
+178;-8698290778080007628;Custom;ELETRA - FMS Brake Pedal Switch - tick;FMS Brake Pedal Switch;Value;
+179;1111141420387027793;Custom;ELETRA - FMS Door Release - tick;FMS Door Release;Value;
+180;4751141245804815071;Custom;ELETRA -Electronic Control Module Status -tick;Electronic Control Module Status;Value;s
+181;9053268852580782752;Custom;ELETRA - EV CAN: Charging Gun Status - tick;EV CAN: Charging Gun Status;Value;
+182;-3702705793868642849;Custom;ELETRA - CANV1 - Tachograph vehicle speed - tick;CANV1 - Tachograph vehicle speed;Value;
+183;844027017066111983;Custom;ELETRA - HVAC status zone 1 - tick;HVAC status zone 1;Value;
+184;2743185658600545352;Custom;ELETRA - EV CAN: Inverter Temperature - tick;EV CAN: Inverter Temperature;Value;°C
+185;1505083944494985216;ServerSide;Entrada/Saída - Garagem Central;Velocidade;Speed;km/h
+186;1508990091828637696;ServerSide;Entrada e Saída da Garagem Central;Velocidade;Speed;km/h
+187;1514774225334644736;ServerSide;(HP Teste) - Excesso de velocidade nos terminais - 10KM;Velocidade;Speed;km/h
+188;1514774503327399936;ServerSide;(HP Teste) - Excesso de velocidade nos terminais - 20KM;Velocidade;Speed;km/h
+189;-3263360059171983396;Custom;(HP) Uso indevido pedal acelerador 85% MB;FMS Accelerator Pedal Position;Value;%
+190;1443761028319829598;Custom;(HP) Teste MB Fora da Faixa Verde;Rotação;Value;RPM
+191;-4921024113127362274;Custom;(HP) Teste VW Fora da Faixa Verde;Rotação;Value;RPM
+192;-529328588670984177;Custom;FMS clutch switch;;;
+193;207856453574166642;Custom;(HP) Pressão de Óleo (Média) MB;FMS Engine Oil Pressure;Value;kPa
+194;-752958622125295327;Custom;(HP) Pressão de Óleo (Máxima) MB;FMS Engine Oil Pressure;Value;kPa
+195;2506681610511737959;Custom;(HP) Temperatura do óleo (Média) MB;FM CAN: Engine Oil Temperature;Value;C
+196;-3758873779993826956;Custom;(HP) Temperatura do óleo (Máxima) MB;FM CAN: Engine Oil Temperature;Value;C
+197;-7123962973183832704;Custom;(HP) Pressão Pneumática Circuito A (Máxima) MB;FMS Service Brake Air Pressure Circuit 1;Value;kPa
+198;-6341349870272069507;Custom;(HP) Pressão Pneumática Circuito B (Média) MB;FMS Service Brake Air Pressure Circuit 2;Value;kPa
+199;-185411581352749252;Custom;(HP) Pressão Pneumática Circuito A (Média) MB;FMS Service Brake Air Pressure Circuit 1;Value;kPa
+200;8261479921022395027;Custom;(HP) Pressão Pneumática Circuito B (Máxima) MB;FMS Service Brake Air Pressure Circuit 2;Value;kPa
+201;-6129755720729105405;Custom;(HP) Temperatura Admissão (Máxima) MB;FMS Engine Intake Manifold Temperature;Value;°C
+202;7065825748957722848;Custom;(HP) Temperatura Admissão (Média) MB;FMS Engine Intake Manifold Temperature;Value;°C
+203;7599399711666227326;Custom;(HP) Turbina Acelerando ao desligar;Rotação;Value;RPM
+204;7768796765888747610;Custom;(HP) Turbina, Acelerando ao Ligar;Rotação;Value;RPM
+205;1615286158982360440;Custom;(HP) Baixa Pressão pneumática Circ. A (Mov.) MB;FMS Service Brake Air Pressure Circuit 1;Value;kPa
+206;-6254266670144138713;Custom;(HP) Baixa Pressão pneumática Circ. B (Mov.) MB;FMS Service Brake Air Pressure Circuit 2;Value;kPa
+207;1389198326262385492;Custom;gps alt;GPS altitude;DistanceMeters;m
+208;5901366389452709065;Custom;(HP) Pressão de Óleo (Máxima);FM CAN: Oil Pressure;Value;kPa
+209;5595785120339817050;Custom;(HP) Pressão de Óleo (Média);FM CAN: Oil Pressure;Value;kPa
+210;5928173277131215037;Custom;(HP) Marcha Lenta Excessiva;;;
+211;-6834185547174380704;Custom;(HP) Temp. liq. arrefecimento (Alerta);FMS Engine Coolant Temperature;Value;°C
+212;-1182458138592280247;Custom;(HP) Temperatura do óleo (Alerta) MB;FM CAN: Engine Oil Temperature;Value;C
+213;-1987815027968775715;Custom;(HP) Fora da Faixa Verde - MB;Rotação;Value;RPM
+214;5810031671892255535;Custom;(HP) Fora da Faixa Verde - VW;Rotação;Value;RPM
